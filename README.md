@@ -1,4 +1,4 @@
-# Awesome KAN(Kolmogorov-Arnold Network)
+# Awesome KAN(Kolmogorov-Arnold Network) for Vision Tasks
 
 
 ![Awesome](https://awesome.re/badge.svg) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-kan.svg?style=social)
